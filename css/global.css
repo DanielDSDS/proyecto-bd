@@ -1,0 +1,16 @@
+.titulo{
+    font-size: xx-large;
+    font-family: Montserrat;
+    font-weight: 700;
+}
+
+.subtitulo{
+    font-size: large;
+    font-family: Raleway;
+    font-weight: bold;
+}
+
+.texto{
+    font-size: small;
+    font-family: Open Sans;
+}
